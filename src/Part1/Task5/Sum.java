@@ -7,7 +7,7 @@ public class Sum {
         Scanner scanner=new Scanner(System.in);
         System.out.print("Please insert first digit: ");
         int firstDigit= scanner.nextInt();
-        System.out.print("Please insert first digit: ");
+        System.out.print("Please insert second digit: ");
         int secondDigit= scanner.nextInt();
 
         if(firstDigit > secondDigit) {
