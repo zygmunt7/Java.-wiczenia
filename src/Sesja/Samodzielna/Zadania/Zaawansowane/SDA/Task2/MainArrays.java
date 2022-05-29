@@ -1,4 +1,4 @@
-package ArraysList;
+package Sesja.Samodzielna.Zadania.Zaawansowane.SDA.Task2;
 
 import java.util.Scanner;
 

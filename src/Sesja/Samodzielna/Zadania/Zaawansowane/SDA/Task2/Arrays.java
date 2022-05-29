@@ -1,6 +1,4 @@
-package ArraysList;
-
-import java.util.Scanner;
+package Sesja.Samodzielna.Zadania.Zaawansowane.SDA.Task2;
 
 public class Arrays {
     public static void bubble(int arrays[]) {
